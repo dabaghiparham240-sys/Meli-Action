@@ -154,3 +154,6 @@ Meli-Action/
 <a href="https://github.com/Kurdeus/Meli-Action/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Kurdeus/Meli-Action" alt="Meli-Action contributors" width="200"/>
 </a>
+
+
+<h2>توجه : fork کردن از روی این پروژه مجاز نیست /  Attention: Forking from this project is not allowed.</h2>
